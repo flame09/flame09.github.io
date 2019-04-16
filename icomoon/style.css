@@ -1,0 +1,303 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?3fnopo');
+  src:  url('fonts/icomoon.eot?3fnopo#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?3fnopo') format('truetype'),
+    url('fonts/icomoon.woff?3fnopo') format('woff'),
+    url('fonts/icomoon.svg?3fnopo#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  
+  /* Enable Ligatures ================ */
+  letter-spacing: 0;
+  -webkit-font-feature-settings: "liga";
+  -moz-font-feature-settings: "liga=1";
+  -moz-font-feature-settings: "liga";
+  -ms-font-feature-settings: "liga" 1;
+  font-feature-settings: "liga";
+  -webkit-font-variant-ligatures: discretionary-ligatures;
+  font-variant-ligatures: discretionary-ligatures;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-google:before {
+  content: "\e900";
+  background-color: #444444;
+color: white;
+padding: 15px;
+font-size: 30px;
+position: absolute;
+top: 0px;
+left: 0px;
+border-radius: 5px 0 0 5px;
+}
+.icon-html5:before {
+  content: "\e901";
+  background-color: #444444;
+color: white;
+padding: 15px 18px 15px 18px;
+font-size: 30px;
+position: absolute;
+top: 0px;
+left: 0px;
+border-radius: 5px 0 0 5px;
+}
+.icon-github-alt:before {
+  content: "\e902";
+  background-color: #444444;
+color: white;
+padding: 16px;
+padding-right: 18px;
+font-size: 28px;
+position: absolute;
+top: 0px;
+left: 0px;
+border-radius: 5px 0 0 5px;
+
+}
+.icon-home3:before {
+  content: "\e903";
+  background-color: #444444;
+  color: white;
+  padding: 15px;
+  font-size: 30px;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: 5px 0 0 5px;
+}
+.icon-images:before {
+  content: "\e90e";
+  background-color: #444444;
+color: white;
+padding: 15px 13px 15px 13px;
+font-size: 30px;
+position: absolute;
+top: 0px;
+left: 0px;
+border-radius: 5px 0 0 5px;
+}
+.icon-music:before {
+  content: "\e911";
+  background-color: #444444;
+color: white;
+padding: 15px;
+font-size: 30px;
+position: absolute;
+top: 0px;
+left: 0px;
+border-radius: 5px 0 0 5px;
+}
+.icon-film:before {
+  content: "\e913";
+  background-color: #444444;
+color: white;
+padding: 15px;
+font-size: 30px;
+position: absolute;
+top: 0px;
+left: 0px;
+border-radius: 5px 0 0 5px;
+}
+.icon-user:before {
+  content: "\e971";
+  background-color: #444444;
+color: white;
+padding: 15px;
+font-size: 30px;
+position: absolute;
+top: 0px;
+left: 0px;
+border-radius: 5px 0 0 5px;
+}
+.icon-cogs:before {
+  content: "\e995";
+  background-color: #444444;
+color: white;
+padding: 15px;
+font-size: 30px;
+position: absolute;
+top: 0px;
+left: 0px;
+border-radius: 5px 0 0 5px;
+}
+.icon-download3:before {
+  content: "\e9c7";
+  background-color: #444444;
+color: white;
+padding: 15px;
+font-size: 30px;
+position: absolute;
+top: 0px;
+left: 0px;
+border-radius: 5px 0 0 5px;
+}
+.icon-facebook:before {
+  content: "\ea90";
+background-color: #444444;
+color: white;
+padding: 15px;
+font-size: 30px;
+position: absolute;
+top: 0px;
+left: 0px;
+border-radius: 5px 0 0 5px;
+  
+}
+.icon-twitter:before {
+  content: "\ea96";
+  background-color: #444444;
+color: white;
+padding: 15px;
+font-size: 30px;
+position: absolute;
+top: 0px;
+left: 0px;
+border-radius: 5px 0 0 5px;
+}
+.icon-rss:before {
+  content: "\ea9b";
+  background-color: #444444;
+color: white;
+padding: 15px;
+font-size: 30px;
+position: absolute;
+top: 0px;
+left: 0px;
+border-radius: 5px 0 0 5px;
+}
+.icon-steam2:before {
+  content: "\eaad";
+  background-color: #444444;
+color: white;
+padding: 15px;
+font-size: 30px;
+position: absolute;
+top: 0px;
+left: 0px;
+border-radius: 5px 0 0 5px;
+}
+.icon-appleinc:before {
+  content: "\eabe";
+  background-color: #444444;
+color: white;
+padding: 15px;
+font-size: 30px;
+position: absolute;
+top: 0px;
+left: 0px;
+border-radius: 5px 0 0 5px;
+}
+.icon-windows8:before {
+  content: "\eac2";
+  background-color: #444444;
+color: white;
+padding: 15px;
+font-size: 30px;
+position: absolute;
+top: 0px;
+left: 0px;
+border-radius: 5px 0 0 5px;
+}
+.icon-skype:before {
+  content: "\eac5";
+  background-color: #444444;
+color: white;
+padding: 15px;
+font-size: 30px;
+position: absolute;
+top: 0px;
+left: 0px;
+border-radius: 5px 0 0 5px;
+}
+.icon-pinterest:before {
+  content: "\ead1";
+  background-color: #444444;
+color: white;
+padding: 15px;
+font-size: 30px;
+position: absolute;
+top: 0px;
+left: 0px;
+border-radius: 5px 0 0 5px;
+}
+.icon-chrome:before {
+  content: "\ead9";
+  background-color: #444444;
+color: white;
+padding: 15px;
+font-size: 30px;
+position: absolute;
+top: 0px;
+left: 0px;
+border-radius: 5px 0 0 5px;
+}
+.icon-firefox:before {
+  content: "\eada";
+  background-color: #444444;
+color: white;
+padding: 15px;
+font-size: 30px;
+position: absolute;
+top: 0px;
+left: 0px;
+border-radius: 5px 0 0 5px;
+}
+.icon-IE:before {
+  content: "\eadb";
+  background-color: #444444;
+color: white;
+padding: 15px;
+font-size: 30px;
+position: absolute;
+top: 0px;
+left: 0px;
+border-radius: 5px 0 0 5px;
+}
+.icon-safari:before {
+  content: "\eadd";
+  background-color: #444444;
+color: white;
+padding: 15px;
+font-size: 30px;
+position: absolute;
+top: 0px;
+left: 0px;
+border-radius: 5px 0 0 5px;
+}
+.icon-opera:before {
+  content: "\eade";
+  background-color: #444444;
+color: white;
+padding: 15px;
+font-size: 30px;
+position: absolute;
+top: 0px;
+left: 0px;
+border-radius: 5px 0 0 5px;
+}
+.icon-css3:before {
+  content: "\eae6";
+  background-color: #444444;
+color: white;
+padding: 15px;
+font-size: 30px;
+position: absolute;
+top: 0px;
+left: 0px;
+border-radius: 5px 0 0 5px;
+}
